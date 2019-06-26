@@ -1,5 +1,5 @@
 import importlib, os, logging, sys, ast, asyncio
-MODULES_NAME="modules"
+MODULES_NAME="stdplugins"
 
 class Module():
     """There is no help for this module"""
